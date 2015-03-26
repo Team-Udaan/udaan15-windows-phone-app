@@ -1,0 +1,82 @@
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\ApplicationIcon.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Udaan15.dll
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Udaan15.pdb
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\AppManifest.xaml
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Properties\WMAppManifest.xml
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Udaan15_Debug_AnyCPU.xap
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\App.g.cs
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\MainPage.g.cs
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.g.resources
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.Resources.AppResources.resources
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.csproj.GenerateResource.Cache
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.dll
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.pdb
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\XapCacheFile.xml
+c:\users\dhruv\documents\visual studio 2013\Projects\Udaan15\Udaan15\obj\Debug\MainPage2.g.cs
+C:\Users\Dhruv\Documents\Visual Studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dhruv\Documents\Visual Studio 2013\Projects\Udaan15\Udaan15\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dhruv\Documents\Visual Studio 2013\Projects\Udaan15\Udaan15\obj\Debug\Udaan15.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Documents\Visual Studio 2013\Projects\Udaan15\Udaan15\obj\Debug\TechNonTech.g.cs
+C:\Users\Dhruv\Documents\Visual Studio 2013\Projects\Udaan15\Udaan15\obj\Debug\ListPage.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Udaan15.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Udaan15.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\AppManifest.xaml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Udaan15_Debug_AnyCPU.xap
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\App.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\ListPage.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\MainPage.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\TechNonTech.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.g.resources
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.Resources.AppResources.resources
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.csproj.GenerateResource.Cache
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\XapCacheFile.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Udaan15.csprojResolveAssemblyReference.cache
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\Splash.g.cs
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ICSharpCode.SharpZLib.Phone.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Controls.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Filtering.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Bmp.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Gif.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Png.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Utils.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\PhoneCodeContractsAssemblies.dll
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ICSharpCode.SharpZLib.Phone.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Controls.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Controls.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Filtering.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Filtering.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Bmp.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Bmp.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Gif.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Gif.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Png.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.IO.Png.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Utils.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\ImageTools.Utils.xml
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\Bin\Debug\PhoneCodeContractsAssemblies.pdb
+C:\Users\Dhruv\Desktop\udaan15-windows-phone-app\Udaan15\Udaan15\obj\Debug\EventDetails.g.cs
